@@ -42,4 +42,4 @@ I build continuous data scraping pipelines, automated cleaning systems (Medallio
 
 ---
 
-📫 **Connect with me**: [LinkedIn](https://linkedin.com/in/yassir-sabri-insea) | yassirsabri16@gmail.com[cite: 1]
+📫 **Connect with me**: [LinkedIn](https://linkedin.com/in/yassir-sabri-insea).
