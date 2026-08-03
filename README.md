@@ -1,4 +1,4 @@
-\# Hi there, I'm Yassir 👋
+# Hi there, I'm Yassir 👋
 
 **Data & ML Engineer** | State Engineer Graduate from INSEA 🎓
 
