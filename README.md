@@ -1,16 +1,16 @@
-# Hi there, I'm Yassir 👋
+\# Hi there, I'm Yassir 👋
 
 **Data & ML Engineer** | State Engineer Graduate from INSEA 🎓
 
-I build continuous data scraping pipelines, automated cleaning systems (Medallion Architecture), scalable Lakehouse stack environments, and fast backend APIs[cite: 1].
+I build continuous data scraping pipelines, automated cleaning systems (Medallion Architecture), scalable Lakehouse stack environments, and fast backend APIs.
 
 ---
 
 ### 👨‍💻 About Me
-* 🚀 **Focus**: Designing resilient Data Pipelines, Medallion Architectures (Bronze/Silver/Gold), and high-load APIs[cite: 1].
-* 🛠️ **Core Stack**: Docker, Apache Spark, Airflow, MLflow, MinIO, and FastAPI[cite: 1].
-* 🎓 **Education**: State Engineer in Big Data & Biostatistics – **INSEA**[cite: 1].
-* 💼 **Status**: Seeking a full-time **Data Engineer** position[cite: 1].
+* 🚀 **Focus**: Designing resilient Data Pipelines, Medallion Architectures (Bronze/Silver/Gold), and high-load APIs.
+* 🛠️ **Core Stack**: Docker, Apache Spark, Airflow, MLflow, MinIO, and FastAPI.
+* 🎓 **Education**: State Engineer in Big Data & Biostatistics – **INSEA**.
+* 💼 **Status**: Seeking a full-time **Data Engineer** position.
 
 ---
 
@@ -37,8 +37,8 @@ I build continuous data scraping pipelines, automated cleaning systems (Medallio
 
 ### 🚀 Key Projects
 
-* 🏗️ **Containerized Lakehouse Architecture**: Medallion pipeline (Bronze/Silver/Gold) using Spark, MinIO, Airflow, Nessie, and MLflow[cite: 1].
-* 🔄 **Automated NLP Pipeline**: End-to-end sentiment analysis engine orchestrated with Airflow and PostgreSQL[cite: 1].
+* 🏗️ **Containerized Lakehouse Architecture**: Medallion pipeline (Bronze/Silver/Gold) using Spark, MinIO, Airflow, Nessie, and MLflow.
+* 🔄 **Automated NLP Pipeline**: End-to-end sentiment analysis engine orchestrated with Airflow and PostgreSQL.
 
 ---
 
