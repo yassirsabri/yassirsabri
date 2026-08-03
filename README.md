@@ -10,7 +10,6 @@ I build continuous data scraping pipelines, automated cleaning systems (Medallio
 * 🚀 **Focus**: Designing resilient Data Pipelines, Medallion Architectures (Bronze/Silver/Gold), and high-load APIs.
 * 🛠️ **Core Stack**: Docker, Apache Spark, Airflow, MLflow, MinIO, and FastAPI.
 * 🎓 **Education**: State Engineer in Big Data & Biostatistics – **INSEA**.
-* 💼 **Status**: Seeking a full-time **Data Engineer** position.
 
 ---
 
